@@ -5,6 +5,10 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![FMHY](https://img.shields.io/badge/Source-FMHY-blue.svg)](https://fmhy.net/ai)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-green.svg)](https://fmhy.net/ai)
+![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
+![GitHub license](https://img.shields.io/github/license/your-username/your-repo-name)
+![Last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
+![Topics](https://img.shields.io/badge/topics-AI%20%7C%20LLM%20%7C%20Chatbots%20%7C%20Tools-blue)
 
 ---
 
