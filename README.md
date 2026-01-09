@@ -1,7 +1,7 @@
 
-# 🚀 FMHY AI Tools Hub  
+# 🚀 AI Tools Hub  
 _A complete directory of artificial intelligence tools and platforms indexed by the FMHY community_  
-🔗 Source: [FMHY AI Index](https://fmhy.net/ai)
+🔗 Source: [AI Index](https://fmhy.net/ai)
 
 ![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
 ![GitHub license](https://img.shields.io/github/license/your-username/your-repo-name)
