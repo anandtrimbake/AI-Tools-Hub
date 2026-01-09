@@ -1,6 +1,6 @@
-# 🤖 The Ultimate AI Resources Hub - FMHY Edition
+# 🤖 The Ultimate AI Resources Hub
 
-> A comprehensive collection of artificial intelligence tools, models, and resources curated by FreeMHY - from chatbots to image generators, everything you need for AI exploration!
+> A comprehensive collection of artificial intelligence tools, models, and resources - from chatbots to image generators, everything you need for AI exploration!
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![FMHY](https://img.shields.io/badge/Source-FMHY-blue.svg)](https://fmhy.net/ai)
